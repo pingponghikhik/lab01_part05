@@ -1,3 +1,9 @@
-<<<<<<< my-resume
+my-resume
+my-resume
 =======
->>>>>>> main
+main
+=======
+# References
+
+* octocat 1
+main
